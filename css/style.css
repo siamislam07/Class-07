@@ -1,0 +1,68 @@
+.colour{
+	color: coral;
+}
+.center{
+	text-align: center;
+}
+.heading{
+	font-family: papyrus;
+	font-size: 40px;
+	font-weight: normal;
+}
+.arial{
+	font-family: arial;
+	font-size: 37px;
+	font-weight: bold;
+	font-style: oblique;
+}
+.BrushScriptMT{
+	font-family: Brush Script MT;
+	font-size: 28px;
+	
+}
+.heaning2{
+	text-align: center;
+	text-decoration: overline underline;	
+}
+.dummy{
+	text-decoration: underline;
+}
+.dummy2{
+	text-decoration: overline;
+}
+.dummy3{
+	text-decoration: line-through;
+}
+.dummy4{
+	text-decoration: underline overline ;
+}
+.dummy5{ 
+	text-indent: 50px;
+	
+}
+.dummy6{
+	color: lightblue;
+	text-shadow: 5px -190px 4px darkblue;
+}
+.span{
+	letter-spacing: 5px;
+}
+.span2{
+	word-spacing: 10px;
+}
+.span3{
+	line-height: 35px;
+}
+
+.box{
+	
+	width: 200px;
+	height: 200px;
+	background-color: royalblue;
+	margin: 0 auto;
+	border-radius: 50px;
+
+}
+
+
+
